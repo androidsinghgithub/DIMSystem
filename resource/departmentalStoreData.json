@@ -1,0 +1,52 @@
+{
+    "departmentalStoreAppModels": [
+        {
+            "brand": "Nike",
+            "itemName": "Tshirt",
+            "size": "M",
+            "color": "White",
+            "sex": "Male",
+            "noOfItems": 1
+        },
+        {
+            "brand": "Nike",
+            "itemName": "Tshirt",
+            "size": "M",
+            "color": "White",
+            "sex": "Male",
+            "noOfItems": 14
+        },
+        {
+            "brand": "Addidas",
+            "itemName": "TrackPant",
+            "size": "M",
+            "color": "White",
+            "sex": "Male",
+            "noOfItems": 13
+        },
+        {
+            "brand": "Nike",
+            "itemName": "Shoe",
+            "size": "M",
+            "color": "White",
+            "sex": "Male",
+            "noOfItems": 12
+        },
+        {
+            "brand": "Puma",
+            "itemName": "Floaters",
+            "size": "M",
+            "color": "White",
+            "sex": "Male",
+            "noOfItems": 19
+        },
+        {
+            "brand": "Addidas",
+            "itemName": "Floaters",
+            "size": "S",
+            "color": "White",
+            "sex": "Male",
+            "noOfItems": 5
+        }
+    ]
+}
